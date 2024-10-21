@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ihsan Darmawansyah
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ihsan Darmawansyah
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ihsan
+last_name: Darmawansyah
 
 # Status emoji
 status:
@@ -31,14 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sanodarmawan@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/ihsndarmawan
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/drmwnnnnnnnnnnn
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Sanosaurus
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
